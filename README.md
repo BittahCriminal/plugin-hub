@@ -15,6 +15,7 @@ any of them.
 |---|---|---|
 | chief-of-staff | [BittahCriminal/Chief-of-Staff](https://github.com/BittahCriminal/Chief-of-Staff) | Career operating skills, voice-matched comms, design review personas, read-only briefing harness |
 | platform-engineering | [BittahCriminal/platform-engineering-plugin](https://github.com/BittahCriminal/platform-engineering-plugin) | Kubernetes ops, GitOps/CI-CD, IaC, observability, platform design (scaffold) |
+| career-advancement | [BittahCriminal/career-advancement](https://github.com/BittahCriminal/career-advancement) | Promotion positioning, visibility, level-up behaviors, feedback, negotiation (scaffold) |
 
 ## Adding a plugin
 

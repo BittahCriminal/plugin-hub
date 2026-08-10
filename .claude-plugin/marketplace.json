@@ -24,6 +24,15 @@
         "repo": "BittahCriminal/platform-engineering-plugin"
       },
       "category": "development"
+    },
+    {
+      "name": "career-advancement",
+      "description": "Engineering career growth: promotion positioning, visibility with leadership, level-up behaviors, feedback loops, and negotiation.",
+      "source": {
+        "source": "github",
+        "repo": "BittahCriminal/career-advancement"
+      },
+      "category": "productivity"
     }
   ]
 }
