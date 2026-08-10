@@ -15,6 +15,15 @@
         "repo": "BittahCriminal/Chief-of-Staff"
       },
       "category": "productivity"
+    },
+    {
+      "name": "platform-engineering",
+      "description": "Platform engineering skills: Kubernetes operations, GitOps and CI/CD, infrastructure as code, observability, and cloud-native platform design.",
+      "source": {
+        "source": "github",
+        "repo": "BittahCriminal/platform-engineering-plugin"
+      },
+      "category": "development"
     }
   ]
 }

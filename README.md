@@ -14,8 +14,7 @@ any of them.
 | Plugin | Repo | What it is |
 |---|---|---|
 | chief-of-staff | [BittahCriminal/Chief-of-Staff](https://github.com/BittahCriminal/Chief-of-Staff) | Career operating skills, voice-matched comms, design review personas, read-only briefing harness |
-
-Pending (listed once their repos are pushed): platform-engineering.
+| platform-engineering | [BittahCriminal/platform-engineering-plugin](https://github.com/BittahCriminal/platform-engineering-plugin) | Kubernetes ops, GitOps/CI-CD, IaC, observability, platform design (scaffold) |
 
 ## Adding a plugin
 
