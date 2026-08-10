@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bittahcriminal",
+  "description": "ByteCloud plugin marketplace: career operating tools, platform engineering, and agent workflow plugins for Claude Code.",
+  "owner": {
+    "name": "L. Richard",
+    "url": "https://bytecloudconsulting.com"
+  },
+  "plugins": [
+    {
+      "name": "chief-of-staff",
+      "description": "Career operating skills, communication templates in your voice, design review personas, and a read-only briefing harness.",
+      "source": {
+        "source": "github",
+        "repo": "BittahCriminal/Chief-of-Staff"
+      },
+      "category": "productivity"
+    }
+  ]
+}
