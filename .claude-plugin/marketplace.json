@@ -33,6 +33,15 @@
         "repo": "BittahCriminal/career-advancement"
       },
       "category": "productivity"
+    },
+    {
+      "name": "volcano-scheduling",
+      "description": "Offline-first Volcano batch-scheduling skill for Kubernetes: queues, PodGroups, VolcanoJob, scheduler actions/plugins, GPU/vGPU sharing, and network-topology-aware scheduling. All reference material is bundled locally, so it works in network-restricted environments.",
+      "source": {
+        "source": "github",
+        "repo": "BittahCriminal/volcano-scheduling-plugin"
+      },
+      "category": "development"
     }
   ]
 }

@@ -16,6 +16,7 @@ any of them.
 | chief-of-staff | [BittahCriminal/Chief-of-Staff](https://github.com/BittahCriminal/Chief-of-Staff) | Career operating skills, voice-matched comms, design review personas, read-only briefing harness |
 | platform-engineering | [BittahCriminal/platform-engineering-plugin](https://github.com/BittahCriminal/platform-engineering-plugin) | Kubernetes ops, GitOps/CI-CD, IaC, observability, platform design (scaffold) |
 | career-advancement | [BittahCriminal/career-advancement](https://github.com/BittahCriminal/career-advancement) | Promotion positioning, visibility, level-up behaviors, feedback, negotiation (scaffold) |
+| volcano-scheduling | [BittahCriminal/volcano-scheduling-plugin](https://github.com/BittahCriminal/volcano-scheduling-plugin) | Offline-first Volcano batch scheduling for Kubernetes: queues, PodGroups, VolcanoJob, scheduler actions/plugins, GPU/vGPU sharing, network-topology-aware scheduling |
 
 ## Adding a plugin
 
