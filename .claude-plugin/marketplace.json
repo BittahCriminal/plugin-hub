@@ -45,7 +45,7 @@
     },
     {
       "name": "rag-mcp",
-      "description": "Read-only semantic search over the ByteCloud technical library: 29 books, 384 enriched chapter transcripts, and platform engineering reports, served from Qdrant. Cloudflare Access service-token auth.",
+      "description": "Read-only semantic search over the ByteCloud technical library: 29 books, 384 enriched chapter transcripts, and platform engineering reports, served from Qdrant. Browser login via Cloudflare Access OAuth — nothing to configure.",
       "source": {
         "source": "github",
         "repo": "BittahCriminal/rag-mcp-plugin"
