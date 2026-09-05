@@ -18,6 +18,7 @@ any of them.
 | career-advancement | [BittahCriminal/career-advancement](https://github.com/BittahCriminal/career-advancement) | Promotion positioning, visibility, level-up behaviors, feedback, negotiation (scaffold) |
 | volcano-scheduling | [BittahCriminal/volcano-scheduling-plugin](https://github.com/BittahCriminal/volcano-scheduling-plugin) | Offline-first Volcano batch scheduling for Kubernetes: queues, PodGroups, VolcanoJob, scheduler actions/plugins, GPU/vGPU sharing, network-topology-aware scheduling |
 | rag-mcp | [BittahCriminal/rag-mcp-plugin](https://github.com/BittahCriminal/rag-mcp-plugin) | Read-only semantic search over the ByteCloud technical library (29 books, 384 chapter transcripts, platform engineering reports) via Qdrant; Cloudflare Access service-token auth |
+| swe | [BittahCriminal/SWE](https://github.com/BittahCriminal/SWE) | Dependency-free Go runtime for smallest-correct-change engineering guidance |
 
 ## Adding a plugin
 

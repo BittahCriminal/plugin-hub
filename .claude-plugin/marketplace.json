@@ -51,6 +51,15 @@
         "repo": "BittahCriminal/rag-mcp-plugin"
       },
       "category": "development"
+    },
+    {
+      "name": "swe",
+      "description": "A dependency-free Go runtime for smallest-correct-change engineering guidance.",
+      "source": {
+        "source": "github",
+        "repo": "BittahCriminal/SWE"
+      },
+      "category": "development"
     }
   ]
 }
