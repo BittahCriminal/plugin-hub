@@ -45,7 +45,7 @@
     },
     {
       "name": "rag-mcp",
-      "description": "Read-only semantic search over the ByteCloud technical library: 29 books, 384 enriched chapter transcripts, and platform engineering reports, served from Qdrant. Browser login via Cloudflare Access OAuth — nothing to configure.",
+      "description": "Read-only semantic search over the ByteCloud technical library: 29 books, 384 enriched chapter transcripts, and platform engineering reports, served from Qdrant. Browser login via Cloudflare Access OAuth \u2014 nothing to configure.",
       "source": {
         "source": "github",
         "repo": "BittahCriminal/rag-mcp-plugin"
@@ -60,6 +60,15 @@
         "repo": "BittahCriminal/SWE"
       },
       "category": "development"
+    },
+    {
+      "name": "tpm",
+      "description": "Technical program management: /tpm charters a program, builds a buffered plan, logs risks with ordered strategies, sets up stakeholder communication and RACI, and writes audience-leveled status reports. Frameworks are bundled locally; no RAG or network access at runtime.",
+      "source": {
+        "source": "github",
+        "repo": "BittahCriminal/tpm-plugin"
+      },
+      "category": "productivity"
     }
   ]
 }
